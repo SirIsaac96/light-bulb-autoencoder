@@ -30,7 +30,7 @@ Autoencoders are neural networks designed to learn efficient representations of 
 
 ## Dependencies
 
-- Python 3.x
+- Python
 - TensorFlow / Keras
 - NumPy
 - Matplotlib
