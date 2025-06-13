@@ -35,3 +35,6 @@ Autoencoders are neural networks designed to learn efficient representations of 
 - NumPy
 - Matplotlib
 
+## License
+
+- This project is intended for academic and educational use.
